@@ -1,0 +1,24 @@
+{
+  "latest_year": 2022,
+  "regions_count": 2,
+  "hottest_region": "Napa Valley",
+  "coolest_region": "Willamette Valley",
+  "highest_risk": "Willamette Valley",
+  "lowest_risk": "Napa Valley",
+  "regions": [
+    {
+      "region": "Napa Valley",
+      "winkler_gdd": 3296.5,
+      "winkler_region": "III",
+      "vintage_risk_score": 100,
+      "frost_free_days": 260
+    },
+    {
+      "region": "Willamette Valley",
+      "winkler_gdd": 1770.7,
+      "winkler_region": "I",
+      "vintage_risk_score": 87,
+      "frost_free_days": 213
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+region,year,winkler_gdd,winkler_region,last_spring_frost,first_fall_frost,frost_free_days,heat_events_count,season_precip_mm,vintage_risk_score,gdd_vs_mean_pct,data_source
+Napa Valley,2018,3499.3,III,2018-03-12,2018-11-24,257,11,73.0,100,2.9,synthetic_demo
+Napa Valley,2019,3416.4,III,2019-02-15,2019-11-14,272,18,31.6,70,0.5,synthetic_demo
+Napa Valley,2020,3059.3,III,2020-03-08,2020-11-04,241,11,18.0,100,-10.0,synthetic_demo
+Napa Valley,2021,3395.2,III,2021-03-04,2021-10-30,240,12,63.6,100,-0.1,synthetic_demo
+Napa Valley,2022,3296.5,III,2022-03-05,2022-11-20,260,12,155.8,100,-3.0,synthetic_demo
+Willamette Valley,2018,2285.5,I,2018-03-16,2018-11-16,245,3,210.4,100,-0.6,synthetic_demo
+Willamette Valley,2019,2301.9,I,2019-03-25,2019-11-02,222,0,181.7,100,0.1,synthetic_demo
+Willamette Valley,2020,2273.4,I,2020-03-19,2020-11-11,237,1,184.0,100,-1.2,synthetic_demo
+Willamette Valley,2021,2182.3,I,2021-04-10,2021-11-22,226,0,195.9,100,-5.1,synthetic_demo
+Willamette Valley,2022,1770.7,I,2022-04-06,2022-11-05,213,4,188.3,87,-23.0,synthetic_demo
